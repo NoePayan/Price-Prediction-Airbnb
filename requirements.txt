@@ -1,0 +1,8 @@
+# Notebook last run with Python 3.12.7 and LightGBM 4.6.0
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+lightgbm==4.6.0
+jupyter
